@@ -8,8 +8,9 @@ Mi nombre es _***Lady anallely merino miranda***_., estoy aprendiendo a programa
 
 - ladymerino2001@gmail.com
 - ladymerino2001@hotmail.com
-- https://youtube.com/channel/UCvxY-diBYTs1X8LwLM9x55w
-- https://www.instagram.com/invites/contact/?i=nudxl3yx20k0&utm_content=mds1skp
+- https://github.com/Merinomiranda
+- https://www.facebook.com/
+- https://www.instagram.com/
 
      # 🎓LA UNIVERSIDAD
 ❤sí,sí,lose. Es mi "U" no es genial!!.
