@@ -13,7 +13,7 @@ Mi nombre es _***Lady anallely merino miranda***_., estoy aprendiendo a programa
 - https://www.instagram.com/
 
      # 🎓LA UNIVERSIDAD
-❤sí,sí,lose. Es mi "U" no es genial!!.
+❤sí,sí. Es mi "U" no es genial!!.
 🌈Como les vengo comentando👀,Estoy iniciando una nueva etapa de mi vida en la universidad🏫,nuevos amigos 👯‍♀️,nuevos problemas 🤣,nueva _yo_ 👩🏻.
 🌱 Actualmente soy alumna de pregrado,curso el primer ciclo en _UTEC_ especializandome en _CIENCIAS DE LA COMPUTACIÓN_.
 
