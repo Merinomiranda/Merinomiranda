@@ -12,8 +12,8 @@ Mi nombre es _***Lady anallely merino miranda***_., estoy aprendiendo a programa
 - https://www.facebook.com/
 - https://www.instagram.com/
 
-    
-  # 📕¿QUÉ ESTAS APRENDIENDO?�
+
+# 📕¿QUÉ ESTAS APRENDIENDO?�
   
 ``
 Python
