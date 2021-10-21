@@ -12,26 +12,31 @@ Mi nombre es _***Lady anallely merino miranda***_., estoy aprendiendo a programa
 - https://www.facebook.com/
 - https://www.instagram.com/
 
-     # 🎓LA UNIVERSIDAD
-❤sí,sí. Es mi "U" no es genial!!.
-🌈Como les vengo comentando👀,Estoy iniciando una nueva etapa de mi vida en la universidad🏫,nuevos amigos 👯‍♀️,nuevos problemas 🤣,nueva _yo_ 👩🏻.
-🌱 Actualmente soy alumna de pregrado,curso el primer ciclo en _UTEC_ especializandome en _CIENCIAS DE LA COMPUTACIÓN_.
+    
+  # 📕¿QUÉ ESTAS APRENDIENDO?�
+  
+``
+Python
+``
 
-![This is an image](http://worldofficeforum.com/wp-content/uploads/2017/01/utec.jpg)
+# ⚙POR APRENDER
 
-  # ¿QUÉ ESTAS APRENDIENDO?📕
-Bueno basicamente son muchos cursos de por medio, pero lo esencial es apreder a programar(aunque nose de donde comenzar porqué estoy perdida ahora😅)
+``
+C++
+``
 
-# ⚙ POR APRENDER
-- C++
-- Golang
-- Java
-- Python
-- JavaScript!                           
+``
+Golang
+``
 
-  - ReactJS
-  - NodeJS
-  - AngularJS
+``
+Java
+``
+
+``
+JavaScript!                           
+``
+
 
  # 🎊INTERESES 
                                             
