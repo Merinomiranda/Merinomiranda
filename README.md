@@ -1,25 +1,23 @@
    # 👋HOLA MUNDO, _"Un plaisir de vous rencontrer"_ 
-Mi nombre es _***Lady anallely merino miranda***_., estoy aprendiendo a programar y se que en un futuro nos llevaremos bien.( _sí a ti te lo digo!!_)
+Estoy aprendiendo a programar y se que en un futuro nos llevaremos bien.( _sí a ti te lo digo!!_)
 
-![This is an image](https://p4.wallpaperbetter.com/wallpaper/613/22/414/anime-anime-girls-manga-computer-wallpaper-preview.jpg)
+   ![Portada de vídeo de Facebook 1702x630 px](https://user-images.githubusercontent.com/91160075/138206479-349ece4b-bc08-4a80-9ded-9f6ac9784de3.gif)
 
+   
    # 💻CONTACTENME
    📫 Pueden contactarme mediantes estos enlaces:
 
-- ladymerino2001@gmail.com
-- ladymerino2001@hotmail.com
-- https://github.com/Merinomiranda
-- https://www.facebook.com/
-- https://www.instagram.com/
+- [github](https://github.com/Merinomiranda/)
+- [facebook](https://www.facebook.com/)
+- [instagram](https://www.instagram.com/)
 
+   # 📕¿QUÉ ESTAS APRENDIENDO?�
 
-# 📕¿QUÉ ESTAS APRENDIENDO?�
-  
 ``
 Python
 ``
 
-# ⚙POR APRENDER
+   # ⚙POR APRENDER
 
 ``
 C++
@@ -38,7 +36,7 @@ JavaScript!
 ``
 
 
- # 🎊INTERESES 
+   # 🎊INTERESES 
                                             
 💞️ En mis pasatiempos tengo a la reposteria🥧y no dejando de lado mis gustos de la limpieza✨, musica🎶 y de los _K-DRAMAS_.
 amo a mis gatos.
